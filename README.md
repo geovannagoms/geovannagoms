@@ -60,9 +60,9 @@ Tecnologias que estou utilizando e aprendendo nos meus projetos.
 <tr><td>
 <h3>01 / NORTH-NET</h3>
 <img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-58E6FF?style=flat-square&labelColor=161B22" alt="Em desenvolvimento" />
-<p>Uma rede social autoral. Um espaço para explorar conexões, comunidades e a experiência de construir uma interface com identidade própria.</p>
+<p>Uma rede social autoral. Um espaço para explorar conexões, comunidades e construir uma interface com identidade própria.</p>
 <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-<p><a href="https://github.com/geovannagoms?tab=repositories&q=North-Net"><strong>Encontrar o projeto no GitHub ↗</strong></a></p>
+<p><a href="https://github.com/geovannagoms/north-net"><strong>Ver projeto no GitHub ↗</strong></a></p>
 </td></tr>
 </table>
 
@@ -109,23 +109,28 @@ Aprender. Criar. Refinar.
 <br /><br />
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=geovannagoms&show_icons=true&hide_rank=true&border_color=273449&bg_color=0D1117&title_color=58E6FF&text_color=C9D1D9&icon_color=B392F0&border_radius=12&locale=pt-br" width="495" alt="Estatísticas de geovannagoms no GitHub" />
+<img src="https://github-stats-extended.vercel.app/api?username=geovannagoms&show_icons=true&hide_rank=true&theme=tokyonight" width="495" alt="Estatísticas de geovannagoms no GitHub" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannagoms&layout=compact&langs_count=6&card_width=495&border_color=273449&bg_color=0D1117&title_color=58E6FF&text_color=C9D1D9&border_radius=12&locale=pt-br" width="495" alt="Linguagens dos repositórios públicos" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=geovannagoms&layout=compact&langs_count=6&theme=tokyonight" width="495" alt="Linguagens dos repositórios públicos" />
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=geovannagoms&theme=github-dark-blue&background=0D1117&border=273449&ring=B392F0&fire=58E6FF&currStreakLabel=58E6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=12&locale=pt_BR" width="495" alt="Sequência de contribuições" />
 </p>
 
+<details>
+<summary><strong>📈 Abrir Activity Graph</strong></summary>
+<br />
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=geovannagoms&bg_color=0D1117&color=C9D1D9&line=58E6FF&point=B392F0&area=true&area_color=58E6FF&hide_border=true&radius=12&custom_title=Activity%20Log" width="100%" alt="Gráfico de contribuições recentes" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=geovannagoms&theme=tokyo-night" width="100%" alt="Gráfico de contribuições recentes" />
 </p>
+<p align="center"><a href="https://github.com/geovannagoms?tab=overview">Ver atividade diretamente no GitHub ↗</a></p>
+</details>
 
 <details>
-<summary><strong>🏆 Achievement archive / GitHub Trophies</strong></summary>
+<summary><strong>🏆 Abrir GitHub Trophies</strong></summary>
 <br />
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=geovannagoms&theme=tokyonight&no-frame=true&column=3&row=2&margin-w=12&margin-h=12" width="495" alt="Troféus de atividade no GitHub" />
@@ -134,13 +139,11 @@ Aprender. Criar. Refinar.
 
 ## `06 /` Contribution Matrix
 
-<!-- A imagem abaixo aparecerá após configurarmos o workflow da Snake. -->
-
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geovannagoms/geovannagoms/output/github-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geovannagoms/geovannagoms/output/github-snake.svg" />
-<img src="https://raw.githubusercontent.com/geovannagoms/geovannagoms/output/github-snake-dark.svg" width="100%" alt="Snake de contribuições — aguardando ativação do workflow" />
+<img src="https://raw.githubusercontent.com/geovannagoms/geovannagoms/output/github-snake-dark.svg" width="100%" alt="Snake de contribuições" />
 </picture>
 </p>
 
