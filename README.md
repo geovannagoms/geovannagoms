@@ -1,16 +1,37 @@
-## Hi there 👋
+# Prazer, eu sou a Geovanna!
 
-<!--
-**geovannagoms/geovannagoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante e desenvolvedora Front-End em formação, atualmente focada em construir uma base sólida em desenvolvimento web e evoluir gradualmente para Full-Stack.
 
-Here are some ideas to get you started:
+Tenho trabalhado principalmente com HTML, CSS e JavaScript, além de Git, GitHub e Supabase. Gosto especialmente de transformar ideias próprias em projetos reais e aprender tecnologia através da prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projeto em destaque
+
+### North.net
+
+Rede social autoral inspirada na experiência da web dos anos 2000 e início dos anos 2010.
+
+O projeto reúne perfis, publicações, memories, grupos, guestbook e outras formas de interação, enquanto sua arquitetura evolui gradualmente com a integração do Supabase.
+
+**Tecnologias:** HTML, CSS, JavaScript, Supabase, Git e GitHub.
+
+[Ver projeto no GitHub](https://github.com/geovannagoms/north-net)
+
+##  Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Supabase
+
+##  Atualmente estudando
+
+- Desenvolvimento Front-End
+- JavaScript
+- Desenvolvimento web
+- Integração com backend e bancos de dados
+
+##  Próximos objetivos
+
+Aprofundar meus conhecimentos em JavaScript, aprender TypeScript e React e, posteriormente, avançar para desenvolvimento Back-End e Full-Stack.
